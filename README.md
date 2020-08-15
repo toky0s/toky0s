@@ -12,7 +12,7 @@
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... Another name is Cu Xin
 
-</br>
+<br>
 - [x] Sinh ra đời
 - [ ] Có bạn gái
 - [x] Học Trung học
