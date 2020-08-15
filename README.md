@@ -1,7 +1,7 @@
 ### Hi there, I am ✨A Xin✨ 👋
 
 
-Here are some ideas to get you started:
+![](20190819_095251-ANIMATION.gif)
 
 - 🔭 I’m currently working on ... Duy Tan University
 - 🌱 I’m currently learning ... Python ang something have "programming" in name
