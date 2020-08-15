@@ -11,4 +11,9 @@
 - 📫 How to reach me: ... truongaxin123@gmail.com
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... Another name is Cu Xin
--->
+
+
+- [x] Sinh ra đời
+- [ ] Có bạn gái
+- [x] Học Trung học
+- [x] Học Đại học
