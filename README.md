@@ -7,3 +7,4 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"></img>
 <img src="https://i.giphy.com/media/UWt0rhp21JgLwoeFQP/200.webp" width="100"></img>
 </p>
+![The San Juan Mountains are beautiful!](/giphy.gif)
